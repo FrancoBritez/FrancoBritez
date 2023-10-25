@@ -5,7 +5,7 @@
   - 😴 I :heart: sleep 
   - 🌐 I know about development of front-end to websites (it´s a lie. or no...)
   - I like the 🍞
-  - 🏫 My project for the last year of high school: [B-Gas](https://bgas.ar/)
+  - 🏫 My project for the last year of high school: [Proyecto B-Gas](https://bgas.ar/)
     
 ## My contact´s:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
